@@ -1,11 +1,20 @@
 # LsAir
- This is a system develop to be able to analyse and extract metrics 
-from traveller’s behaviour, airlines operations, and a general overview of the functioning of this 
-industry. To do so, I am required to develop the necessary software to be able to comply with 
-each of the requirements of the statement. 
-The goals of this project are to consolidate the development of queries, triggers and events using the 
-techniques and tools learn throughout the second semester. Furthermore, another goal of this project 
-is implementing a graph-based database using the Neo4J software learned. 
+LSAIR has been implemented as a MySQL database comprising more than forty tables
+highly interrelated. LSAIR can answer questions like how many people have travelled to a
+particular destination, which is the airport which has more flights, and which airplanes haven
+‘t been maintained for the last month. However, the database requires some updates to
+answer complex queries and to figure-it out the relations between passengers.
+A major update is to find relations between people, to do so, part of the information of the
+LSAIR database will be migrated to a graph database which excels in social network
+analysis.
+
+#My Objectives
+•To update LSAIR relational database by implementing: new queries, tables, triggers
+and events.
+• To design and implement a LSAIR graph-based database with data from LSAIR
+relational database.
+
+#Segments
 This project is divided in two main parts, the first one consisting of 5 different requirements in which 
 I have to solve multiple queries, triggers and events. The second part is based on two case studies 
-on Neo4J
+on Neo4J.
