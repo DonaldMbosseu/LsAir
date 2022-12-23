@@ -18,3 +18,11 @@ relational database.
 This project is divided in two main parts, the first one consisting of 5 different requirements in which 
 I have to solve multiple queries, triggers and events. The second part is based on two case studies 
 on Neo4J.
+
+#Queries to execute.
+The queries to write and execute can all be found in the project statement above,
+and all the queries done in the SQLScripts above.
+
+To Create the Database -> DB_Creation Folder.
+
+
