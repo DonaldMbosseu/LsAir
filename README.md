@@ -1,4 +1,4 @@
-# :plane: Summary - LsAir
+# 📔: Summary - LsAir
 LSAIR has been implemented as a MySQL database comprising more than forty tables
 highly interrelated. LSAIR can answer questions like how many people have travelled to a
 particular destination, which is the airport which has more flights, and which airplanes haven
