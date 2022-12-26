@@ -8,7 +8,7 @@ A major update is to find relations between people, to do so, part of the inform
 LSAIR database will be migrated to a graph database which excels in social network
 analysis.
 
-# :computer: 
+# :computer: Aim
 •To update LSAIR relational database by implementing: new queries, tables, triggers
 and events.
 • To design and implement a LSAIR graph-based database with data from LSAIR
